@@ -1,5 +1,5 @@
 {
-  "name": "demo-front",
+  "name": "autumn-front",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   "config": {
     "nuxt": {
       "host": "127.0.0.1",
-      "port": "7001"
+      "port": "80"
     }
   },
   "dependencies": {
